@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Jana__Sundar | Twitter" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Jana__Sundar | LinkedIn" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Jana__Sundar | Twitter" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />][twitter]
+[<img align="left" alt="Jana__Sundar | LinkedIn" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 
 <br />
 
