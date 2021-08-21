@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Jana__Sundar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJana__Sundar&screen_name=Jana__Sundar)
 
-## I'm a Full Stack Developer!!
+## Full Stack Developer!!
 
 - 👯 I’m looking to collaborate with other developers
 
