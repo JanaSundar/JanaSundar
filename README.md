@@ -32,12 +32,14 @@
 <br/>
 
 ## 📝 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
+- [How to generate dynamic open graph images](https://dev.to/janasundar/how-to-generate-dynamic-open-graph-images-366g)
+- [How I built my blog with NextJs](https://dev.to/janasundar/how-i-built-my-blog-with-nextjs-fp0)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats
 ---
-<br />
 
 ![Jana's github stats](https://github-readme-stats.vercel.app/api?username=janasundar)
 
@@ -45,16 +47,12 @@
 ## Streaks
 ---
 
-<br>
-
 ![Jana's github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=janasundar)
 
 <br>
 
 ## Feel free to contact me 
 ---
-
-<br>
 
 <p>
     <a href="https://twitter.com/Jana__Sundar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
