@@ -39,20 +39,22 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats
----
+<br />
 
 ![Jana's github stats](https://github-readme-stats.vercel.app/api?username=janasundar)
 
 
 ## Streaks
----
+
+<br>
 
 ![Jana's github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=janasundar)
 
 <br>
 
 ## Feel free to contact me 
----
+
+<br>
 
 <p>
     <a href="https://twitter.com/Jana__Sundar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
