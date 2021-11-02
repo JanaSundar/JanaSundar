@@ -32,7 +32,10 @@
 <br/>
 
 ## 📝 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
+- [How to generate dynamic open graph images](https://dev.to/janasundar/how-to-generate-dynamic-open-graph-images-366g)
+- [How I built my blog with NextJs](https://dev.to/janasundar/how-i-built-my-blog-with-nextjs-fp0)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats
