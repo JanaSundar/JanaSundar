@@ -34,6 +34,7 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Intro to mdx-bundler with NextJs](https://dev.to/janasundar/intro-to-mdx-bundler-with-nextjs-364o)
 - [How to generate dynamic open graph images](https://dev.to/janasundar/how-to-generate-dynamic-open-graph-images-366g)
 - [How I built my blog with NextJs](https://dev.to/janasundar/how-i-built-my-blog-with-nextjs-fp0)
 <!-- BLOG-POST-LIST:END -->
