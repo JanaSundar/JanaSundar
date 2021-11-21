@@ -44,11 +44,11 @@
 ![Jana's github stats](https://github-readme-stats.vercel.app/api?username=janasundar)
 
 
-## Streaks
+## Language used in my public repos
 
 <br>
 
-![Jana's github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=janasundar)
+![Language used in my public repos](https://github-readme-stats.vercel.app/api/top-langs/?username=janasundar&layout=compact&hide_title=1&card_width=300)
 
 <br>
 
