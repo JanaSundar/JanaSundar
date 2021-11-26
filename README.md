@@ -65,6 +65,7 @@
     <a href="https://twitter.com/Jana__Sundar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/janarthanan-s-035483140/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.polywork.com/janasundar"><img src="https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white"/></a>
+    <a href="https://janasundar.dev/rss.xml"><img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white"/></a>
 </p>
 <br >
 
