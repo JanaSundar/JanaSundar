@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate with other developers
 
 <br/>
-<a href="https://app.daily.dev/jana"><img src="./devcard.svg" width="400" alt="Jana's Dev Card"/></a>
+<a href="https://app.daily.dev/jana"><img src="https://github.com/janasundar/janasundar/blob/master/devcard.svg" width="400" alt="Jana's Dev Card"/></a>
 <br/>
 
 ## Languages and Tools:
