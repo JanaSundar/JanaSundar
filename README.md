@@ -1,6 +1,6 @@
 # Hey 👋, I'm Janarthanan
 
-[![Website](https://img.shields.io/website?label=janasundar.dev&style=for-the-badge&url=https://janasundar.dev)](https://janasundar.dev)
+[![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fjanasundar.dev)](https://janasundar.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Jana__Sundar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJana__Sundar&screen_name=Jana__Sundar)
 
 - 👨‍💻 I'm a Javascript Enthusiast
