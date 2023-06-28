@@ -43,12 +43,6 @@
 - [How I built my blog with NextJs](https://dev.to/janasundar/how-i-built-my-blog-with-nextjs-fp0)
 <!-- BLOG-POST-LIST:END -->
 
-## Stats
-<br />
-
-![Jana's github stats](https://github-readme-stats.vercel.app/api?username=janasundar)
-
-
 ## Language used in my public repos
 
 <br>
