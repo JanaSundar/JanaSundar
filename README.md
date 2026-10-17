@@ -45,4 +45,4 @@ Senior software engineer at [Cimpress](https://cimpress.com). I build web produc
   </tr>
 </table>
 
-[Portfolio](https://janasundar.dev) · [Email](mailto:mail@janasundar.com) · [LinkedIn](https://www.linkedin.com/in/janasundar/) · [X](https://x.com/Jana__Sundar)
+[Portfolio](https://janasundar.com) · [Email](mailto:mail@janasundar.com) · [LinkedIn](https://www.linkedin.com/in/janasundar/) · [X](https://x.com/Jana__Sundar)
