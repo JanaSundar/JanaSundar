@@ -45,7 +45,7 @@ Senior software engineer at Cimpress. I build web products and the tools develop
   </tr>
 </table>
 
-<a href="https://janasundar.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-portfolio-dark.svg"><img src="assets/link-portfolio-light.svg" alt="Portfolio" height="30"></picture></a>&nbsp;
+<a href="https://janasundar.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-portfolio-dark.svg"><img src="assets/link-portfolio-light.svg" alt="Portfolio" height="30"></picture></a>&nbsp;
 <a href="mailto:mail@janasundar.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-email-dark.svg"><img src="assets/link-email-light.svg" alt="Email" height="30"></picture></a>&nbsp;
 <a href="https://www.linkedin.com/in/janasundar/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg"><img src="assets/link-linkedin-light.svg" alt="LinkedIn" height="30"></picture></a>&nbsp;
 <a href="https://x.com/Jana__Sundar"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-x-dark.svg"><img src="assets/link-x-light.svg" alt="X" height="30"></picture></a>
